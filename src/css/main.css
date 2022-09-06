@@ -1,0 +1,18 @@
+* {
+    margin: 0 ;
+    padding: 0;
+}
+.container {
+    margin : 10px;
+}
+
+#button__generate {
+    height: 40px;
+    width : 100px;
+    background-color: rgb(218, 231, 238);
+    color:rgb(135, 95, 175);
+    border : none;
+    padding: 4px;
+    border-radius: 8px;
+    font-size: 18px;
+}
